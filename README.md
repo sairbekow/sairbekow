@@ -17,8 +17,6 @@
   Hi, I'm Argen Sairbekow, Frontend Developer & Backend Developer & Software Developer from Kyrgyzstan
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
   💻 I love writing code and learn anythings about it
   <br>
   📚 I’m currently learning algoritms
