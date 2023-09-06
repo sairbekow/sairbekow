@@ -19,7 +19,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning algoritms
+  📚 I’m currently learning blockchain
   <br>
   💬 Ask me anything about from <a href="https://github.com/sairbekow/sairbekow/issues" title="Issues">Here</a>
   <br>
